@@ -1,7 +1,7 @@
 # Logan Hussung
 
-[Linkedin](www.linkedin.com/in/logan-hussung-a78a0366)   
-[Facebook](www.facebook.com/logan.hussung)   
+[Linkedin](https://www.linkedin.com/in/logan-hussung-a78a0366)   
+[Facebook](https://www.facebook.com/logan.hussung)   
 [Medium](https://medium.com/@hussu072)
 
 
@@ -13,9 +13,10 @@
 ![Ski-uh-Mah](https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/1538700_10152244053877268_1479530437_n.jpg?oh=ff2a59411b261970370d4a380a26c46f&oe=5863E106)
 ----
 ## Accomplishments
-* Looking for content here..
-* Only held summer jobs through college
-* Iron yard is the beginning of my actualy career
+* Sportradar Fixtures Supervisor , 2 years
+* University of Minnesota Graduate   
+* Iron yard Front End Development Student
+* Future Coder and Designer
 ----
 ## Hobbies
 1. Spending time with Family
